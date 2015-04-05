@@ -1,0 +1,2 @@
+# RandomWalkAPI
+RandomWalk platform.
